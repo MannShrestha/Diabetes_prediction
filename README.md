@@ -8,7 +8,7 @@ dataset: [data](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
 
 ## How to run this project?
 1. Clone or download this repository into your local machine.
-link : [github](https://github.com/MannShrestha/Diabetes_prediction.git)
+link : (https://github.com/MannShrestha/Diabetes_prediction.git)
 2. Install all required packages by running `pip install -r requirements.txt`
 3. Make sure you have jupyter notebook installed, or Anaconda Navigator or VS-code or any IDE
 4. Run jupyter notebook and save the model in any format such as .pkl,joblib and so on.
