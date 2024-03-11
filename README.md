@@ -12,7 +12,7 @@ link : [github](https://github.com/MannShrestha/Diabetes_prediction.git)
 2. Install all required packages by running `pip install -r requirements.txt`
 3. Make sure you have jupyter notebook installed, or Anaconda Navigator or VS-code or any IDE
 4. Run jupyter notebook and save the model in any format such as .pkl,joblib and so on.
-5. Open 'App.py' file in VS code or any other IDE and run it with python interpreter (Fastapi server).
+5. Open 'app.py' file in VS code or any other IDE and run it with python interpreter (Fastapi server).
 6. Run in terminal: `python app.py`
 7. After getting port:5000
 - `127.0.0.1/5000`
@@ -21,4 +21,4 @@ link : [github](https://github.com/MannShrestha/Diabetes_prediction.git)
 9. You can also use Postman  to test API.
 
 ### Predicted output in fast api
-<img src="images/image.png" alt="Predicted" width="200"/>
+<img src="images/image.png" alt="Predicted" width="500"/>
