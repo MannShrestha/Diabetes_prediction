@@ -21,4 +21,4 @@ link : [github](https://github.com/MannShrestha/Diabetes_prediction.git)
 9. You can also use Postman  to test API.
 
 ### Predicted output in fast api
-[Output](images\image.png)
+<img src="images/image.png" alt="Predicted" width="200"/>
